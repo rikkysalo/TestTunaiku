@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih salah satu       _1</name>
+   <tag></tag>
+   <elementGuidId>6dfb647f-c65c-40b0-9138-8641f69073dd</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-invalid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>mediasource</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>mediasource</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                   Pilih salah satu
+                                   Internet
+                                   Teman
+                                   Radio
+                                   Selebaran/Brosur
+                                   Televisi
+                                   Lainnya
+                               </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/ng-component[1]/landing-component[1]/div[@class=&quot;page__wrapper&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;content__headline&quot;]/div[@class=&quot;content__container padding--big&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/tnk-loan-slider[1]/div[@class=&quot;loan__slider__widget&quot;]/div[@class=&quot;card card--loan-content&quot;]/div[@class=&quot;col-sm-12&quot;]/form[@class=&quot;form-wrapper ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control ng-untouched ng-pristine ng-invalid&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

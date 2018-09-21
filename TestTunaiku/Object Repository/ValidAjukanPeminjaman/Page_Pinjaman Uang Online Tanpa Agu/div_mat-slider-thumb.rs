@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_mat-slider-thumb</name>
+   <tag></tag>
+   <elementGuidId>2bfe316e-9be8-4970-9976-7c963b847808</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-slider-thumb</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider_periodePinjaman&quot;)/mat-slider[@class=&quot;mat-slider mat-accent mat-slider-horizontal ng-untouched ng-valid cdk-focused cdk-mouse-focused ng-dirty&quot;]/div[@class=&quot;mat-slider-wrapper&quot;]/div[@class=&quot;mat-slider-thumb-container&quot;]/div[@class=&quot;mat-slider-thumb&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

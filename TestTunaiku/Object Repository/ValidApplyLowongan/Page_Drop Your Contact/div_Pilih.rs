@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih</name>
+   <tag></tag>
+   <elementGuidId>15c2016f-e7eb-407f-ba44-ce3a45daa382</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quantumWizMenuPaperselectOption freebirdThemedSelectOptionDarkerDisabled exportOption isSelected isPlaceholder</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>wQNmvb</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;freebirdFormviewerViewFormCard exportFormCard&quot;]/div[@class=&quot;freebirdFormviewerViewFormContent&quot;]/div[@class=&quot;freebirdFormviewerViewItemList&quot;]/div[@class=&quot;freebirdFormviewerViewItemsItemItem&quot;]/div[@class=&quot;quantumWizMenuPaperselectEl docssharedWizSelectPaperselectRoot freebirdFormviewerViewItemsSelectSelect freebirdThemedSelectDarkerDisabled isActive&quot;]/div[1]/div[@class=&quot;quantumWizMenuPaperselectOptionList&quot;]/div[@class=&quot;quantumWizMenuPaperselectOption freebirdThemedSelectOptionDarkerDisabled exportOption isSelected isPlaceholder&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
